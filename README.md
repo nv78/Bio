@@ -38,7 +38,8 @@ Anote
 │   └── Foundational benchmarks
 ├── 3. Government, defense & science   NASA · DARPA · NIH · DoD
 ├── 4. Robotics & prototypes
-└── 5. Education & mentorship       Break Through Tech AI Studio · Research Fellowship
+├── 5. Education & mentorship       Break Through Tech AI Studio · Research Fellowship
+└── Private work                    government · platform · enterprise (high level)
 ```
 
 ---
@@ -113,7 +114,7 @@ Anote's open research program, run through the **[Anote AI Research Fellowship](
 | ★ | [Research-PostureAndSustainmentOptimization](https://github.com/nv78/Research-PostureAndSustainmentOptimization) | Robust decision support for military posture and sustainment allocation |
 | | [Research-COAGeneration](https://github.com/nv78/Research-COAGeneration) | COA-Bench: course-of-action generation with adversarial self-play |
 
-Plus additional non-public programs with U.S. government partners.
+Plus additional non-public programs with U.S. government partners (see [Private work](#-private-work) below).
 
 ---
 
@@ -141,6 +142,22 @@ I design and mentor industry projects for **[Break Through Tech AI Studio](https
 | | [btt-anote1b](https://github.com/nv78/btt-anote1b) | Leaderboard platform for benchmarking AI models |
 | | [btt-anote2a](https://github.com/anote-ai/btt-anote2a) | Synthetic data generation for ML models |
 | ★ | [btt-anote2b](https://github.com/nv78/btt-anote2b) | Multimodal RAG chatbot & computer-vision fine-tuning SDK |
+
+---
+
+## 🔒 Private work
+
+Much of what I build at Anote is private, because it's customer, partner or government work. At a high level:
+
+| Area | What we build |
+|---|---|
+| **Government & defense AI** | SBIR and prize-challenge work with U.S. defense and space agencies: document understanding for acquisition workflows, AI integration and evaluation, decision support, and simulation and training environments |
+| **MLOps platform** | [Anote's end-to-end platform](https://dashboard.anote.ai) for data annotation, dataset creation, fine-tuning, evaluation and chatbot deployment, plus an agents SDK, a developer cookbook and on-premise annotation tooling |
+| **Enterprise & research partnerships** | Custom NLP, RAG and data-labeling solutions for companies and academic institutions in healthcare, life sciences, finance, compliance and e-commerce |
+| **AI developer tools** | AI-assisted coding tools and evaluation harnesses for coding agents |
+| **Go-to-market automation** | Agentic workflows for outreach, proposal drafting and operations dashboards |
+
+Happy to go deeper on any of these in conversation.
 
 ---
 
