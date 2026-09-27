@@ -22,7 +22,7 @@ I build AI systems that work in the real world: reliable, measurable, and backed
 - 💼 Previously **Deloitte Applied AI**, data scientist / software engineer (NLP, computer vision, analytics).
 - 🎓 **Cornell University**: B.S. Electrical & Computer Engineering, M.Eng. Computer Science.
 
-Most of my code lives in the **[anote-ai](https://github.com/anote-ai)** organization. Below is a map of that work. ★ marks projects I led or am a primary contributor to; the others are team and fellow-led projects I directed or advised.
+Most of my code lives in the **[anote-ai](https://github.com/anote-ai)** organization. Below is a map of that work. Each project links to its copy on my profile, and each copy links back to the anote-ai original. ★ marks projects I led or am a primary contributor to; the others are team and fellow-led projects I directed or advised.
 
 ---
 
@@ -48,18 +48,18 @@ Anote
 | | Project | What it is | Live |
 |---|---|---|---|
 | ★ | **[Panacea](https://github.com/anote-ai/Panacea)** | Anote's flagship multi-agent framework for building, deploying and optimizing collaborative AI agents | [chat.anote.ai](https://chat.anote.ai) |
-| ★ | **[Synthetic-Data](https://github.com/anote-ai/Synthetic-Data)** | Synthetic dataset generation across text, image and audio | [anote.ai/syntheticdata](https://anote.ai/syntheticdata) |
-| ★ | **[Leaderboard](https://github.com/anote-ai/Leaderboard)** | Model leaderboard: compare LLMs across evolving datasets and expert evaluations | [anote.ai/leaderboard](https://anote.ai/leaderboard) |
-| ★ | **[Community](https://github.com/anote-ai/Community)** | Community platform for AI research, events and knowledge sharing | [community.anote.ai](https://community.anote.ai) |
+| ★ | **[Synthetic-Data](https://github.com/nv78/Synthetic-Data)** | Synthetic dataset generation across text, image and audio | [anote.ai/syntheticdata](https://anote.ai/syntheticdata) |
+| ★ | **[Leaderboard](https://github.com/nv78/Leaderboard)** | Model leaderboard: compare LLMs across evolving datasets and expert evaluations | [anote.ai/leaderboard](https://anote.ai/leaderboard) |
+| ★ | **[Community](https://github.com/nv78/Community)** | Community platform for AI research, events and knowledge sharing | [community.anote.ai](https://community.anote.ai) |
 | | **[PrivateGPT](https://github.com/anote-ai/PrivateGPT)** | Secure private chatbot for enterprise and on-premise deployment | [download](https://anote.ai/downloadprivategpt) |
-| | **[Agentic-Chatbot](https://github.com/anote-ai/Agentic-Chatbot)** | Framework for building collaborative AI agents | |
-| ★ | **[Base](https://github.com/anote-ai/Base)** · **[Template-Github-Repository](https://github.com/anote-ai/Template-Github-Repository)** | Anote home page and website template | [anote.ai](https://anote.ai) |
+| | **[Agentic-Chatbot](https://github.com/nv78/Agentic-Chatbot)** | Framework for building collaborative AI agents | |
+| ★ | **[Base](https://github.com/nv78/Base)** · **[Template-Github-Repository](https://github.com/nv78/Template-Github-Repository)** | Anote home page and website template | [anote.ai](https://anote.ai) |
 
 ---
 
 ## 2. 🔬 Research
 
-Anote's open research program, run through the **[Anote AI Research Fellowship](https://github.com/anote-ai/Anote-AI-Research-Fellowship)** ★. Papers and code are collected in **[Research](https://github.com/anote-ai/Research)** ★.
+Anote's open research program, run through the **[Anote AI Research Fellowship](https://github.com/nv78/Anote-AI-Research-Fellowship)** ★. Papers and code are collected in **[Research](https://github.com/nv78/Research)** ★.
 
 ### 📄 Publications
 - **Improving Classification Performance with Human Feedback: Label a Few, We Label the Rest** · [arXiv:2401.09555](https://arxiv.org/abs/2401.09555)
@@ -70,35 +70,35 @@ Anote's open research program, run through the **[Anote AI Research Fellowship](
 ### 🤖 Agents & orchestration
 | | Project | Focus |
 |---|---|---|
-| ★ | [Research-EnterpriseBench](https://github.com/anote-ai/Research-EnterpriseBench) | LLM agents on policy compliance, reliability, auditability and multi-turn consistency |
-| ★ | [Research-CodeBench](https://github.com/anote-ai/Research-CodeBench) | Evaluating AI coding agents: corrected reliability@k, security-adjusted scoring, SWE-bench |
-| | [Research-OrchestrateBench](https://github.com/anote-ai/Research-OrchestrateBench) | Multi-agent orchestration reliability: routing, failure recovery, cascades |
-| | [Research-MetaRouting](https://github.com/anote-ai/Research-MetaRouting) | When should an agent decompose, retrieve, execute, delegate, verify or answer? |
-| | [Research-AgenticRAG](https://github.com/anote-ai/Research-AgenticRAG) | Diagnosing and attributing failure propagation in agentic RAG pipelines |
-| | [Research-DevIntent](https://github.com/anote-ai/Research-DevIntent) | IntentSpec: LLM code that passes tests but violates developer intent |
+| ★ | [Research-EnterpriseBench](https://github.com/nv78/Research-EnterpriseBench) | LLM agents on policy compliance, reliability, auditability and multi-turn consistency |
+| ★ | [Research-CodeBench](https://github.com/nv78/Research-CodeBench) | Evaluating AI coding agents: corrected reliability@k, security-adjusted scoring, SWE-bench |
+| | [Research-OrchestrateBench](https://github.com/nv78/Research-OrchestrateBench) | Multi-agent orchestration reliability: routing, failure recovery, cascades |
+| | [Research-MetaRouting](https://github.com/nv78/Research-MetaRouting) | When should an agent decompose, retrieve, execute, delegate, verify or answer? |
+| | [Research-AgenticRAG](https://github.com/nv78/Research-AgenticRAG) | Diagnosing and attributing failure propagation in agentic RAG pipelines |
+| | [Research-DevIntent](https://github.com/nv78/Research-DevIntent) | IntentSpec: LLM code that passes tests but violates developer intent |
 
 ### 🔎 Retrieval & RAG
 | | Project | Focus |
 |---|---|---|
-| ★ | [Research-FinancialDocumentRetrieval](https://github.com/anote-ai/Research-FinancialDocumentRetrieval) | Cost-aware RAG ablations on financial filings |
-| ★ | [Research-Improving-RAG](https://github.com/anote-ai/Research-Improving-RAG) | Code for the *Improving Retrieval for RAG on Financial Documents* paper |
-| | [Research-RetrievalBench](https://github.com/anote-ai/Research-RetrievalBench) | Chunking × embedding-model interactions across 12 retrieval domains |
-| | [Research-semanticchunking](https://github.com/anote-ai/Research-semanticchunking) | Semantic chunking and hybrid retrieval on FinanceBench |
-| | [Research-TuluLegalRAG](https://github.com/anote-ai/Research-TuluLegalRAG) | Legal RAG with Tulu models |
+| ★ | [Research-FinancialDocumentRetrieval](https://github.com/nv78/Research-FinancialDocumentRetrieval) | Cost-aware RAG ablations on financial filings |
+| ★ | [Research-Improving-RAG](https://github.com/nv78/Improving-Retrieval) | Code for the *Improving Retrieval for RAG on Financial Documents* paper |
+| | [Research-RetrievalBench](https://github.com/nv78/Research-RetrievalBench) | Chunking × embedding-model interactions across 12 retrieval domains |
+| | [Research-semanticchunking](https://github.com/nv78/Research-semanticchunking) | Semantic chunking and hybrid retrieval on FinanceBench |
+| | [Research-TuluLegalRAG](https://github.com/nv78/Research-TuluLegalRAG) | Legal RAG with Tulu models |
 
 ### 🏷️ Data, annotation & synthetic data
 | | Project | Focus |
 |---|---|---|
-| ★ | [Research-MetadataAnnotation](https://github.com/anote-ai/Research-MetadataAnnotation) | Does document structure predict the value of metadata-augmented annotation? |
-| | [Research-AnnotateBench](https://github.com/anote-ai/Research-AnnotateBench) | How much labeled data do different annotation strategies need? |
-| | [Research-EnterpriseSynth](https://github.com/anote-ai/Research-EnterpriseSynth) · [Research-Enterprise-Synth-API](https://github.com/anote-ai/Research-Enterprise-Synth-API) | Agentic SFT and eval data from API schemas without live execution |
+| ★ | [Research-MetadataAnnotation](https://github.com/nv78/Research-MetadataAnnotation) | Does document structure predict the value of metadata-augmented annotation? |
+| | [Research-AnnotateBench](https://github.com/nv78/Research-AnnotateBench) | How much labeled data do different annotation strategies need? |
+| | [Research-EnterpriseSynth](https://github.com/nv78/Research-EnterpriseSynth) · [Research-Enterprise-Synth-API](https://github.com/nv78/Research-Enterprise-Synth-API) | Agentic SFT and eval data from API schemas without live execution |
 
 ### 📊 Foundational benchmarks
 | | Project | Focus |
 |---|---|---|
-| ★ | [Benchmarking-Question-Answering](https://github.com/anote-ai/Research-Benchmarking-Question-Answering) | QA models across OpenAI, Anthropic, Llama 3 and Mistral |
-| ★ | [Benchmarking-Few-Shot-Classification](https://github.com/anote-ai/Research-Benchmarking-Few-Shot-Classification) | Few-shot text classification |
-| ★ | [Benchmarking-Computer-Vision-Models](https://github.com/anote-ai/Research-Benchmarking-Computer-Vision-Models) | CV and object-detection models |
+| ★ | [Benchmarking-Question-Answering](https://github.com/nv78/Benchmarking-Question-Answering) | QA models across OpenAI, Anthropic, Llama 3 and Mistral |
+| ★ | [Benchmarking-Few-Shot-Classification](https://github.com/nv78/Benchmarking-Few-Shot-Classification) | Few-shot text classification |
+| ★ | [Benchmarking-Computer-Vision-Models](https://github.com/nv78/Benchmarking-Computer-Vision-Models) | CV and object-detection models |
 
 ---
 
@@ -106,12 +106,12 @@ Anote's open research program, run through the **[Anote AI Research Fellowship](
 
 | | Project | Program |
 |---|---|---|
-| ★ | **[Research-NIHOligotox](https://github.com/anote-ai/Research-NIHOligotox)** | 🏆 **Phase 1 winner**, NIH NCATS OligoTox Open Data Challenge (oligonucleotide toxicity) |
-| ★ | [NASA-BeyondTheAlgorithm](https://github.com/anote-ai/NASA-BeyondTheAlgorithm) | NASA challenge: active-learning flood forecasting |
-| ★ | [Adaptive-Intelligence-Layer-for-SmallSat-Earth-Observation](https://github.com/anote-ai/Adaptive-Intelligence-Layer-for-SmallSat-Earth-Observation) | Onboard adaptive processing for small-satellite Earth observation |
-| ★ | [Research-DarpaLyft](https://github.com/anote-ai/Research-DarpaLyft) | DARPA LIFT: AI-driven drone payload optimization |
-| ★ | [Research-PostureAndSustainmentOptimization](https://github.com/anote-ai/Research-PostureAndSustainmentOptimization) | Robust decision support for military posture and sustainment allocation |
-| | [Research-COAGeneration](https://github.com/anote-ai/Research-COAGeneration) | COA-Bench: course-of-action generation with adversarial self-play |
+| ★ | **[Research-NIHOligotox](https://github.com/nv78/Research-NIHOligotox)** | 🏆 **Phase 1 winner**, NIH NCATS OligoTox Open Data Challenge (oligonucleotide toxicity) |
+| ★ | [NASA-BeyondTheAlgorithm](https://github.com/nv78/NASA-BeyondTheAlgorithm) | NASA challenge: active-learning flood forecasting |
+| ★ | [Adaptive-Intelligence-Layer-for-SmallSat-Earth-Observation](https://github.com/nv78/Adaptive-Intelligence-Layer-for-SmallSat-Earth-Observation) | Onboard adaptive processing for small-satellite Earth observation |
+| ★ | [Research-DarpaLyft](https://github.com/nv78/Research-DarpaLyft) | DARPA LIFT: AI-driven drone payload optimization |
+| ★ | [Research-PostureAndSustainmentOptimization](https://github.com/nv78/Research-PostureAndSustainmentOptimization) | Robust decision support for military posture and sustainment allocation |
+| | [Research-COAGeneration](https://github.com/nv78/Research-COAGeneration) | COA-Bench: course-of-action generation with adversarial self-play |
 
 Plus additional non-public programs with U.S. government partners.
 
@@ -121,26 +121,26 @@ Plus additional non-public programs with U.S. government partners.
 
 | | Project | What it is |
 |---|---|---|
-| ★ | [Turtlebot-Robot](https://github.com/anote-ai/Turtlebot-Robot) | Autonomous TurtleBot: navigation, mapping, YOLO detection, manipulation |
-| ★ | [audio-classification](https://github.com/anote-ai/audio-classification) | Audio classification with active learning and segment-level annotation |
+| ★ | [Turtlebot-Robot](https://github.com/nv78/Turtlebot-Robot) | Autonomous TurtleBot: navigation, mapping, YOLO detection, manipulation |
+| ★ | [audio-classification](https://github.com/nv78/audio-classification) | Audio classification with active learning and segment-level annotation |
 | | [Autonomous-AI-Newsletter](https://github.com/anote-ai/Autonomous-AI-Newsletter) | Fully automated daily AI newsletter |
-| | [ai-assisted-translation-prototype](https://github.com/anote-ai/ai-assisted-translation-prototype) | AI-assisted translation prototype |
+| | [ai-assisted-translation-prototype](https://github.com/nv78/ai-assisted-translation-prototype) | AI-assisted translation prototype |
 
 ---
 
 ## 5. 🎓 Education & Mentorship
 
-I design and mentor industry projects for **[Break Through Tech AI Studio](https://www.breakthroughtech.org/)** teams and run the **[Anote AI Research Fellowship](https://github.com/anote-ai/Anote-AI-Research-Fellowship)**.
+I design and mentor industry projects for **[Break Through Tech AI Studio](https://www.breakthroughtech.org/)** teams and run the **[Anote AI Research Fellowship](https://github.com/nv78/Anote-AI-Research-Fellowship)**.
 
 | | Cohort | Project |
 |---|---|---|
-| ★ | [BTT-Anote-1A-2024](https://github.com/anote-ai/BTT-Anote-1A-2024) | Financial question answering with numerical and categorical answers |
+| ★ | [BTT-Anote-1A-2024](https://github.com/nv78/BTT-Anote-1A-2024) | Financial question answering with numerical and categorical answers |
 | ★ | [BTT-Anote-1B-2024](https://github.com/anote-ai/BTT-Anote-1B-2024) | Multimodal retrieval-augmented generation |
 | ★ | [BTT-Anote-1C-2024](https://github.com/anote-ai/BTT-Anote-1C-2024) | Autonomous AI coding agent |
-| | [btt-anote1a](https://github.com/anote-ai/btt-anote1a) | Multilingual LLM evaluation & RAG chatbot |
-| | [btt-anote1b](https://github.com/anote-ai/btt-anote1b) | Leaderboard platform for benchmarking AI models |
+| | [btt-anote1a](https://github.com/nv78/btt-anote1a) | Multilingual LLM evaluation & RAG chatbot |
+| | [btt-anote1b](https://github.com/nv78/btt-anote1b) | Leaderboard platform for benchmarking AI models |
 | | [btt-anote2a](https://github.com/anote-ai/btt-anote2a) | Synthetic data generation for ML models |
-| ★ | [btt-anote2b](https://github.com/anote-ai/btt-anote2b) | Multimodal RAG chatbot & computer-vision fine-tuning SDK |
+| ★ | [btt-anote2b](https://github.com/nv78/btt-anote2b) | Multimodal RAG chatbot & computer-vision fine-tuning SDK |
 
 ---
 
